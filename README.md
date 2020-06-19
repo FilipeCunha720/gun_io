@@ -1,5 +1,7 @@
 # Gun.io code Challenge
 
+This project contains all the solutions for the code challenges that Gun.io members need to do when they sign up for the website. This will be enough for you to pass the challenge, but there is probably a more efficient way of solving this challenges.
+
 ### Epigram on Failure
 Given the following quote by Alan Perlis
 
